@@ -1,0 +1,25 @@
+[
+  {
+    "id": "f4ee5a45-83cc-4c13-a184-bb5d5d9179ae",
+    "first_name": "James",
+    "last_name": "Doe",
+    "email": "james.doe@example.com",
+    "skills": [
+      "Software Development",
+      "Machine Learning",
+      "Data Analysis",
+      "Cloud Computing"
+    ],
+    "summary": "A proficient software developer with a keen interest in Machine Learning and Cloud Computing. Experienced in analyzing complex data sets and developing scalable software solutions.",
+    "experience": [
+      {
+        "company": "Tech Innovations Ltd.",
+        "title": "Software Engineer",
+        "start_date": "2019-04-01",
+        "end_date": "2022-03-31",
+        "description": "Developed and maintained high-quality software solutions. Worked on machine learning models to improve product features."
+      }
+    ],
+    "profile_image": "img-sDiWKJYmhQuP7cW0LMziAPdj.png"
+  }
+]
